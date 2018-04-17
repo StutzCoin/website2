@@ -2,7 +2,6 @@ baseURL = "http://stutzcoin.ch/"
 languageCode = "en-us"
 title = "STUTZ"
 theme = "minimal"
-# disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 
